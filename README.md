@@ -1,4 +1,4 @@
-# ROCm Installation with AMD RX 6000 Series GPUs on Arch Linux
+# ROCm Installation with AMD RX 6000 Series GPUs on Arch Linux and Pytorch
 
 Installing ROCM on unsupported RX 6000 series GPUs on Arch Linux and testing using pytorch using the official pip package. This is the easiest and fastest guide on the process, and doesn't involve docker containers, instead, it integrates into a typical python developer workflow with virtual environments and pip. It is not necessary to develop inside a docker container regardless of what AMD recommends.
 
